@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Dawid Perliński</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="columns">
+        <div class="lewa-kolumna">
+            <img src="DP.jpg" alt="Dawid Perliński" class="zdjecie-profilowe">
+            <h1>Lekkie pióro</h1>
+            <p>W marketingu jestem zielony, to fakt,
+                <br>Lecz zapałem płonę, mam serce na ścieżkach tak.</br>
+                <br> Chęć rozwoju we mnie mocno tkwi,</br>
+                <br> Kreatywność płynie jak rzeka, nie zwalniamy kroków.</br> </p> 
+                <p>
+                    <br> Zarządzanie to umiejętność, którą zyskałem tu i tam,</br>
+                    <br>  Mimo braku doświadczenia, wiem, że dam radę, jestem pewny sam.</br>
+                    <br> W organizacji czasu jestem mistrzem wciąż,</br>
+                    <br>  Sumienność, systematyczność - ja nie jestem łoś.</br></p>
+                <p>
+                    <br>Choć na samym starcie trochę zielony jestem,</br>
+                    <br>To w pracy zespołowej świetnie odnajdę się, jak w snach.</br>
+                    <br>  Dajcie mi szansę, dam z siebie wszystko w mig,</br>
+                    <br> W marketingu SUPLA.ORG zrobię wielki skok w przód, to mój cel - nie mit.</br> </p>
+        </div>
+        <div class="prawa-kolumna">
+            <div id="header">
+                <h1>Dawid Perliński</h1>
+            </div>
+            <div class="section">
+                <h2>O mnie</h2>
+                <p>Witam! Obecnie pracuję jako kierownik sklepu Duży Ben. Studiuję na Uniwersytecie DSW we Wrocławiu, a moją specjalizacją jest Branding i zarządzanie marką.
+                    Uważam się za osobę ambitną i kreatywną, a moim celem numer 1 aktualnie jest rozwój - jestem w trakcie kilku kursów (np html, cybersecurity czy excel). 
+                    Zarówno CV jak i tę stronę wykonałem w pojedynkę - no, może z delikatną ingerencją AI. CV zostało wykonane w programie do grafiki wektorowej.
+                    Aktualnie praktycznie samodzielnie prowadzę nieźle prosperujący sklep, gdzie zarządzam niewielką grupą pracowników.  
+                </p>
+            </div>
+
+            <div class="section">
+                
+                <a id="linkedin-link" href="https://www.linkedin.com/in/dawid-perli%C5%84ski-364a30272/" target="_blank">
+                    <img id="linkedin-logo" src="linkedin.png" alt="LinkedIn">
+                </a>
+            </div>
+
+            <div class="section">
+                <h2>Doświadczenie zawodowe</h2>
+                <ul>
+                    <li>Kasjer w firmie KFC w Magnolia Park we Wrocławiu (12.2018-02.2019)</li>
+                    <li>Magazynier w firmie Amazon w Bielanach Wrocławskich (07.2020 - 08.2020)</li>
+                    <li>Praktykant w firmie Hilti w Nowa Wieś Wrocławska (03.2021 - 04.2021)</li>
+                    <li>Przedstawiciel Handlowy w firmie Fortum oraz Emper Group (09.2021 - 10.2021)</li>
+                    <li>Praca w sklepie Duży Ben (11.2021 - obecnie)</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2>Wykształcenie</h2>
+                <p>Technikum nr 3 we Wrocławiu, kierunek: technik mechatronik</p>
+                <p>Uniwersytet DSW we Wrocławiu, drugi rok studiów licencjackich, specjalizacja: Branding i zarządzanie marką</p>
+            </div>
+
+            <div class="section">
+                <h2>Zainteresowania</h2>
+                <p>IT, astronomia, literatura, piłka nożna, sporty walki</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
